@@ -1,3 +1,6 @@
+#Author: Francis. C
+#Date: 2017-1-22
+
 puts "Welcome calculating forgetting curve(modified)"
 print "Total segments: "
 segments = gets.to_i
