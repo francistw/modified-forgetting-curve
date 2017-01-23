@@ -17,6 +17,7 @@ while n <= to
 		while pow <= 9
 			if day + 2**pow - 1 == n
 			print "#{day} "
+            break
 			end
 			pow += 1
 		end

@@ -12,6 +12,7 @@ while day <= segments
 	while pow <= 9
 		if day + 2**pow - 1 == today
 		print "#{day} "
+        break
 		end
 		pow += 1
 	end
