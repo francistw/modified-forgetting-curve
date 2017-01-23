@@ -1,7 +1,7 @@
 #Author: Francis. C
 #Date: 2017-1-22
 
-puts "Welcome calculating forgetting curve(modified)"
+puts "Welcome calculating modified forgetting curve"
 print "Total segments: "
 segments = gets.to_i
 print "Which day's schedule?: "
